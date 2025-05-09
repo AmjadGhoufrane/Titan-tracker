@@ -1,0 +1,80 @@
+{
+  "type": "groupID",
+  "id": 30,
+  "shipsLost": 1803,
+  "iskLost": 269262204012213,
+  "months": {
+    "200712": {
+      "year": 2007,
+      "month": 12,
+      "shipsDestroyed": 262,
+      "pointsDestroyed": 2017,
+      "iskDestroyed": 20553031759
+    }
+  },
+  "shipsDestroyed": 302398,
+  "iskDestroyed": 389404067826403,
+  "topLists": [
+    {
+      "type": "character",
+      "title": "Top Characters",
+      "values": [
+        {
+          "kills": 8,
+          "characterID": 2115711479,
+          "characterName": "Honda FD2",
+          "id": 2115711479,
+          "typeID": null,
+          "name": "Honda FD2"
+        }]
+    },
+    {
+      "type": "corporation",
+      "title": "Top Corporations",
+      "values": [
+        {
+          "kills": 8,
+          "corporationID": 98626718,
+          "corporationName": "Kuan.Dai.Shan",
+          "cticker": "KD.S",
+          "id": 98626718,
+          "typeID": null,
+          "name": "Kuan.Dai.Shan"
+        }]
+    },
+    {
+      "type": "alliance",
+      "title": "Top Alliances",
+      "values": [
+        {
+          "kills": 8,
+          "allianceID": 99009163,
+          "allianceName": "Dracarys.",
+          "aticker": "D.C",
+          "id": 99009163,
+          "typeID": null,
+          "name": "Dracarys."
+        }]
+    },
+    {
+      "type": "solarSystem",
+      "title": "Top Systems",
+      "values": [
+        {
+          "kills": 8,
+          "solarSystemID": 30004948,
+          "solarSystemName": "E-DOF2",
+          "sunTypeID": 3802,
+          "solarSystemSecurity": "-0.5",
+          "systemColorCode": "#8d3264",
+          "constellationID": 20000724,
+          "regionID": null,
+          "constellationName": "NOK-FZ",
+          "regionName": null,
+          "id": 30004948,
+          "typeID": null,
+          "name": "E-DOF2"
+        }]
+    }
+  ]
+}
